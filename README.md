@@ -1,4 +1,4 @@
-#LABORATORI DE MONGODB
+# LABORATORI DE MONGODB
 
 Pràctica de laboratori de MongoDB de l'assignatura CBDE de la FIB.
 Contingut:
